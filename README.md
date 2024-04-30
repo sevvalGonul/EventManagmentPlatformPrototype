@@ -1,4 +1,4 @@
-# EventManagmentPlatformPrototype
+# Event Managment Platform Prototype
 A prototype project for Event Managment And Ticketing Platform - Eventee 
 
 # Project Overview
@@ -18,6 +18,13 @@ Implementation has been conducted for the main use case only, aligning with the 
 
 ![Login Page](images/login.png)
 ![Signup Page](images/signup.png)
+![City Selection](images/cityselection.png)
+![Events](images/events.png)
+![Event Details](images/eventdetails.png)
+![Purchase](images/purchase.png)
+![Payment](images/payment.png)
+![qr](images/qr.png)
+![Event Creation](images/eventcreation.png)
 
 
 
